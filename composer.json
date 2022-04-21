@@ -1,6 +1,11 @@
 {
-	"name": "comprobacionparidad",
-	"description": "comproeuba la paridad de un numero"
-
-	
+    "name": "Ejemplo",
+    "description": "Comprobacion paridad",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sergio Hervás",
+            "email": "sergiohf@gmail.com"
+        }
+    ]
 }
