@@ -2,6 +2,7 @@
     "name": "ejemplointegracion/php_project",
     "description": "Comprobacion paridad",
     "type": "project",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Sergio Hervás",
